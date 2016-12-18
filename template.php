@@ -17,7 +17,7 @@ CModule::IncludeModule('iblock');
 	$rs_kod = CIBlockElement::GetList(
 		array("SORT"=>"ASC"),
 		array(
-			"IBLOCK_ID" => 55,
+			"IBLOCK_ID" => 558,
 			array()
 		),
 		false,
